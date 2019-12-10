@@ -1,0 +1,11 @@
+cd utils
+mvn install
+cd ..
+cd mvrecon_models
+mvn install
+cd ..
+cd spim
+mvn install
+cd ..
+cd mvrecon_core
+mvn install

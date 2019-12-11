@@ -303,8 +303,14 @@ like Selective Plane Illumination Microscopy (SPIM) Data.</description>
 		<!-- mvrecon -->
 		<dependency>
 			<groupId>net.preibisch</groupId>
-			<artifactId>multiview_core</artifactId>
+			<artifactId>mvrec_core</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+
+		<dependency>
+			<groupId>net.preibisch</groupId>
+			<artifactId>distribution</artifactId>
+			<version>0.2.1-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
 

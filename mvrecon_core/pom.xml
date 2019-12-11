@@ -11,7 +11,7 @@
 	</parent>
 
 	<groupId>net.preibisch</groupId>
-	<artifactId>multiview_core</artifactId>
+	<artifactId>mvrec_core</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
 

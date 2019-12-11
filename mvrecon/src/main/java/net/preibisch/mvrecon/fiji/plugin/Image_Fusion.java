@@ -99,8 +99,7 @@ public class Image_Fusion implements PlugIn
 
 		if ( fusion.clusterProcessing() )
 		{ 
-			Clustering.run(fusion);
-
+			MVreconCustering.run(fusion);
 			return false;
 		}
 

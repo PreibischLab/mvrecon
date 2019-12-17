@@ -301,16 +301,16 @@ like Selective Plane Illumination Microscopy (SPIM) Data.</description>
 		</dependency>
 
 		<!-- mvrecon -->
-		<dependency>
+	<!-- 	<dependency>
 			<groupId>net.preibisch</groupId>
 			<artifactId>mvrec_core</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
+		</dependency> -->
 
 		<dependency>
 			<groupId>net.preibisch</groupId>
 			<artifactId>distribution</artifactId>
-			<version>0.2.1-SNAPSHOT</version>
+			<version>0.2.2-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
 
